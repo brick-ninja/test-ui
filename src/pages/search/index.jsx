@@ -29,7 +29,7 @@ const tabList = [
 
 export default function SearchPage() {
   return (
-    <div className="h-full min-h-[calc(100%-60px)]">
+    <div className="h-[calc(100%-50px)]">
       <div className="flex h-[50px] bg-[#f7f9fb] border-b-[1px] border-[#e8eef4]">
         {tabList.map((v, k) => (
           <NavLink

@@ -4,7 +4,7 @@ import Header from "../header";
 
 export default function MainLayout() {
   return (
-    <div className="min-h-screen">
+    <div className="h-screen">
       <Header />
       <Outlet />
     </div>
