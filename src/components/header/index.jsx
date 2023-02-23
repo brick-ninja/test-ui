@@ -9,7 +9,7 @@ import {
   FiSettings,
 } from "react-icons/fi";
 import { AiOutlineSend } from "react-icons/ai";
-import { VscGraph, VscQuestion } from "react-icons/vsc";
+import { VscGraph } from "react-icons/vsc";
 import { RiQuestionLine } from "react-icons/ri";
 
 import Logo from "../icons/Logo";

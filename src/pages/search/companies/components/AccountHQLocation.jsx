@@ -5,7 +5,7 @@ import {
   AccordionBody,
 } from "@material-tailwind/react";
 import clsx from "clsx";
-import { BsCaretUpFill, BsList } from "react-icons/bs";
+import { BsCaretUpFill } from "react-icons/bs";
 import { GoLocation } from "react-icons/go";
 import AutoComplete from "src/components/input/AutoComplete";
 

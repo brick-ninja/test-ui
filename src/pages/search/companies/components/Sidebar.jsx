@@ -5,7 +5,7 @@ import {
   AccordionBody,
 } from "@material-tailwind/react";
 import { HiOutlineLogout } from "react-icons/hi";
-import { BsCaretUpFill, BsList } from "react-icons/bs";
+import { BsCaretUpFill } from "react-icons/bs";
 import { CiViewList } from "react-icons/ci";
 
 import Button from "src/components/button";
